@@ -34,9 +34,15 @@ export default function Home() {
         <a href="https://github.com/Azhar-2002" className="text-xl hover:text-blue-600" target="_blank">
           <FaGithub />
         </a>
-        <a href="https://www.linkedin.com/in/md-azharansari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="text-xl hover:text-blue-600" target="_blank">
+        <a 
+          href="https://www.linkedin.com/in/md-azharansari/" 
+          className="text-xl hover:text-blue-600" 
+          target="_blank" 
+          rel="noopener noreferrer"
+        >
           <FaLinkedin />
         </a>
+
       </div>
     </nav>
 
