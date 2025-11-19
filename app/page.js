@@ -71,9 +71,14 @@ export default function Home() {
           <a href="https://github.com/Azhar-2002" target="_blank" className="hover:text-blue-600">
             <FaGithub />
           </a>
-          <a href="https://linkedin.com/in/md-azhar-ansari" target="_blank" className="hover:text-blue-600">
-            <FaLinkedin />
-          </a>
+        <a 
+          href="https://www.linkedin.com/in/md-azharansari/" 
+          className="text-xl hover:text-blue-600" 
+          target="_blank" 
+          rel="noopener noreferrer"
+        >
+          <FaLinkedin />
+        </a>
         </div>
 
       </nav>
