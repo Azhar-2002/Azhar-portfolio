@@ -111,7 +111,7 @@ export default function Home() {
               View Projects
             </a>
              <a
-              href="https://drive.google.com/file/d/1fTPEKnYmwVH0w1C47cDADfeKHLxfvlq7/view?usp=sharing"
+              href="https://drive.google.com/file/d/1iWpjwwaZj4mX4EGRNJ4RBRvPGc0VAG77/view?usp=sharing"
               className="px-5 py-2.5 rounded-full bg-blue-600 text-white text-sm font-medium hover:bg-blue-700"
             >
               Resume
